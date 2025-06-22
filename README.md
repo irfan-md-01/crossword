@@ -71,6 +71,8 @@ python generate.py data/structure1.txt data/words1.txt output.png
 ██████████████
 ```
 
+![Output Image](https://github.com/irfan-md-01/crossword/blob/main/crossword/output.png)
+
 ## Input File Formats
 
 ### Structure Files
